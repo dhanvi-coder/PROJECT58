@@ -1,0 +1,58 @@
+body {
+      text-align: center;
+      background: linear-gradient(#C2185B 25%, #AD1457 50%, #880E4F 25%);
+      background-repeat: no-repeat;
+}
+
+h1 {
+      text-shadow: 2px;
+      font-size: 20px;
+      font-family: Merriweather, serif;
+}
+
+#Myfavouritehobby {
+      padding: 20px;
+      font-size: 18;
+      text-align: inherit;
+}
+
+img {
+      border-radius: 50%;
+      width: 100px;
+}
+
+.menu {
+      list-style:circle;
+      font-family: sans-serif;
+      position: absolute;
+      cursor: pointer;
+      color: black;
+
+}
+
+.links {
+      float: left;
+      color: #fff;
+      padding-top: 5px;
+      padding-left: 9px;
+      padding-bottom: 5px;
+      padding-right: 9px;
+      font-family: fantasy;
+      font-size: 20px;
+}
+
+img {
+
+      width: 175px;
+      margin-bottom: 50px;
+      border-radius: 50%;
+}
+
+li {
+      display: list-item;
+      letter-spacing: inherit;
+}
+
+links:hover {
+      background-color: dodgerblue;
+}
